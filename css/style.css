@@ -1,0 +1,55 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	background:url('./img/qc.jpg');
+}
+
+.container{
+	width: 1140px;
+	margin: 0 auto;
+}
+
+
+
+
+.from{
+	width: 100%;
+	float: left;
+}
+
+.one{
+	width: 40%;
+	float: left;
+	background-color: yellow;
+
+}
+
+.one h2{
+	padding: 20px 30px;
+	display: block;
+	margin: 0 auto;
+}
+
+.one h2 p{
+
+}
+
+.two{
+   width: 40%;
+   float: left;
+   background-color: green;
+}
+
+.two h2{
+
+}
+
+.two h2 p{
+
+}
+
+.two form{
+
+}
